@@ -1,19 +1,19 @@
 {
-  "name": "lab-node-template",
+  "name": "lab-node-working-with-actions",
   "version": "1.1.0",
-  "description": "An auth0 training lab template",
+  "description": "An auth0 training lab about Actions",
   "license": "MIT",
   "author": "Auth0",
   "bugs": {
-    "url": "https://github.com/auth0-training/labs-node-template/issues"
+    "url": "https://github.com/auth0-training/labs-node-working-with-actions/issues"
   },
-  "homepage": "https://github.com/auth0-training/labs-node-template#readme",
+  "homepage": "https://github.com/auth0-training/labs-node-working-with-actions#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auth0-training/labs-node-template.git"
+    "url": "git+https://github.com/auth0-training/labs-node-working-with-actions.git"
   },
   "scripts": {
-
+    "init": "echo 'Working with Actions'"
   },
   "keywords": [
     "auth0",

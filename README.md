@@ -1,8 +1,8 @@
 [![Auth0 Training](https://user-images.githubusercontent.com/73120/125103885-a2bb5d80-e091-11eb-8084-383003f1e484.png "Auth0 Training")](https://training.auth0.com)
 
-# Lab Node Template
+# Lab Node Working with Actions
 
-An auth0 training lab template for node.
+In this hands-on lab learners will put Actions into practice. Specifically, they'll create an explicit Allow User List, create an Allow User List for Admin Applications, and enable Admin Only Access for Admin Applications.
 
 > Note: This lab template is an experimental release, and is built on a best-efforts basis by some Auth0 developers in their available innovation time. It is open-source licensed and free to use, and is not covered by any Auth0 Terms of Service or Agreements. If you have issues with this template you can engage with the project's developer community through the repository GitHub Issues list, or contribute fixes and enhancements of your own via a Pull Request.
 
@@ -20,7 +20,7 @@ To get started using this lab, ensure you have met the minimum [requirements](#r
 
 1. Clone this repository to your local machine.
   ```bash
-  git clone https://github.com/auth0-training/labs-node-template.git
+  git clone https://github.com/auth0-training/labs-node-working-with-actions.git
   ```
 2. Start Docker Desktop.
 3. Open the directory containing the source code in VSCode.
