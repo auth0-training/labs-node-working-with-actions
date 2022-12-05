@@ -36,6 +36,5 @@
       "title": "Recap",
       "description": "## Recap\nConsider the following:  \n\n*   Why might it be a bad idea to create an email allow list?\n*   Why did we place the check for the admin app above the user allow list logic?\n*   Why did we use app\\_metadata rather than user\\_metadata to place the admin flag on the user?\n*   How else might you be able to make this Action easier to maintain as you develop more administrative applications?\n*   Can you think of any other ways without using Actions we could have restricted the users that have access to admin applications?"
     }
-  ],
-  "nextTour": "1: Work with Actions"
+  ]
 }

@@ -8,5 +8,6 @@
       "line": 1
     }
   ],
-  "isPrimary": true
+  "isPrimary": true,
+  "nextTour": "1: Work with Actions"
 }
