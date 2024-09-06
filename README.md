@@ -1,3 +1,4 @@
+![img](https://cdn.auth0.com/website/auth0-training/auth0-labs-ext/oktane24.png)
 # Lab: Extend Auth0 Capabilities with Actions
 
 In this [Okta Training](https://www.okta.com/training/) hands-on lab learners will put Actions into practice. Specifically, they'll create an explicit Allow User List, create an Allow User List for Admin Applications, and enable Admin Only Access for Admin Applications.
